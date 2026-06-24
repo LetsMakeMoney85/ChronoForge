@@ -1,1 +1,1 @@
-# ChronoForge
+# ChronoForge React MVP\nCloudflare Pages + Vite starter.
