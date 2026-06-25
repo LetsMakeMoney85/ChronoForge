@@ -1,5 +1,0 @@
-
-body{margin:0;background:#0a0a0a;color:white;font-family:Arial}
-.hero{min-height:100vh;display:flex;flex-direction:column;align-items:center;justify-content:center;text-align:center;padding:20px}
-h1{font-size:3rem;max-width:900px}
-button{background:#d4af37;border:none;padding:14px 24px;font-weight:bold}
